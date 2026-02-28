@@ -1,0 +1,29 @@
+{
+  "inventory": [
+    {
+      "MaterialTitle": {
+        "Name": "VARISTOR 25VAC 10% 10mm 3.7J",
+        "PN": "B72210S0250K101",
+        "MF": "TDK"
+      },
+      "MID": "MID20323",
+      "MD": "B72210S0250K101 is Leaded varistors, StandarD series Wide operating voltage range 11 … 1100 VRMS, High surge current ratings up to 8 kA, No derating up to 105 °C ambient temperature\r\n",
+      "MT": "Electronic Material",
+      "MQNT": 10,
+      "MCost": 64.68,
+      "MQATG": "#CLASS_2",
+      "ML": "120",
+      "MDS": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20323%2Fmain%2Fsiov_leaded_standard_B72210S0250K101.pdf",
+      "MAF1": "",
+      "MAF2": "",
+      "MAF3": "",
+      "MAF4": "",
+      "MAF5": "",
+      "MR": "",
+      "MaterialImages": [
+        "https://raw.githubusercontent.com/mylab2025/MID20323/main/IMG_20260228_093618.jpg",
+        "https://raw.githubusercontent.com/mylab2025/MID20323/main/IMG_20260228_093645.jpg"
+      ]
+    }
+  ]
+}
